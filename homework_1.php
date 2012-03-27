@@ -24,7 +24,7 @@ number: <input type="text" name="number" />
 
 <?php 
 	
-	//print_r(ctype_digit($_GET["number"]));
+
 	
 if($_GET){
 	$m=$_GET["number"];
