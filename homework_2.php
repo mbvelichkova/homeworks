@@ -10,7 +10,7 @@
 <?php
 foreach(range(20,1000, 37) as $key=>$value)
 		$array[$key]=$value;
-//print_r($array);
+
 
 function is_prime($m){
 		$flag=true;
